@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+
+# IntelliJ
+*.iml
+.idea/
+
+## Plugin-specific files:
+# IntelliJ
+/out/
+
